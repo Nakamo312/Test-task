@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+Python-dotenv
+pydantic
+sqlalchemy
+alembic
+psycopg2-binary
+asyncpg
+aiokafka
+aiohttp
+transliterate
